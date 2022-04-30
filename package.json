@@ -11,6 +11,8 @@
   "dependencies": {
     "@codewithdan/observable-store": "^2.2.14",
     "core-js": "^3.6.5",
+    "inversify": "^6.0.1",
+    "reflect-metadata": "^0.1.13",
     "rxjs": "^7.5.5",
     "vue": "^3.0.0"
   },
